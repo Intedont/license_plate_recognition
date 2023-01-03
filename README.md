@@ -1,1 +1,3 @@
-# license_plate_recognition
+# license_plate_recognition  
+
+В этом репозитории находится решение задачи OCR по распознаванию автомобильных номеров. Для этого была реализована модель CRNN, обучение производилось на датасете https://github.com/detectRecog/CCPD
